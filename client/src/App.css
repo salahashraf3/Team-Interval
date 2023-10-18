@@ -1,0 +1,15 @@
+.App-container{
+  background-color: rgba(224, 224, 224, 0.937);
+  height: 100vh;
+  width: 100vw;
+}
+
+.List-container{
+  height: 75vh;
+  overflow-y: scroll;
+}
+
+
+::-webkit-scrollbar{
+  display: none;
+}
